@@ -1,5 +1,4 @@
 # Aqui Entre Nós
-=========================
 
 Aqui entre nós - just between us, when translated - is an interactive installation developed for class, and it aims to explore the many cultural diferences concerning the personal space of different cultures around the world.
 
